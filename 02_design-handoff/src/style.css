@@ -1,0 +1,32 @@
+* {
+  background-color: #1f1f1f;
+}
+
+.card-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+
+  max-width: 37.5rem;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 12px;
+
+  background-color: #141415;
+
+  img {
+    width: 4rem;
+    height: 4rem;
+  }
+
+  p {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 120%;
+  }
+}
