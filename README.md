@@ -2,5 +2,10 @@
 
 ## 과제 1
 
-> 02_design-handoff 과제  
-> 2024년 7월 22일 - [[링크]](https://github.com/jaehwan-space/likelion-homework/blob/react/02_design-handoff/README.md)
+design-handoff 과제  
+> 2024년 7월 22일 - [[링크]](https://github.com/jaehwan-space/likelion-homework/blob/react/01_design-handoff/README.md)
+
+## 과제 2
+
+atomic-design 과제  
+> 2024년 7월 26일 - [[링크]](https://github.com/jaehwan-space/likelion-homework/blob/react/02_atomic-design/README.md)
