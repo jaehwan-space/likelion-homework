@@ -22,7 +22,7 @@
 
 ## 디자인
 
-![image](https://github.com/user-attachments/assets/a24a93f8-04ad-40ca-9b85-6cbe69bf11b4)  
+![image](https://github.com/user-attachments/assets/63f5138d-4318-499f-9509-28a694aa8b53)
 [<u>시안보기</u>](<https://www.figma.com/design/8S1SB9LdYsvY72OponGb16/%EC%98%A4%EB%8A%98-%ED%95%A0-%EC%9D%BC-(Today-Do-it)-(Copy)?node-id=8-195&m=dev)>)
 
 ## 설명
@@ -31,4 +31,6 @@
 
 ## 결과
 
-![image](https://github.com/user-attachments/assets/97b14f3f-cf6c-4ebc-94be-ff805166f3bc)
+![image](https://github.com/user-attachments/assets/1d05981f-034e-4e15-993c-a02698df8f2b)
+![image](https://github.com/user-attachments/assets/e4d0d72b-a85e-41c7-b7da-3ccd68b8308b)
+
