@@ -1,0 +1,62 @@
+.MainPage {
+  width: 337px;
+  height: 640px;
+  overflow-y: scroll;
+  padding-top: 5.625rem;
+  background-color: var(--gray-50);
+  margin: 0 auto;
+  border: 1px solid var(--gray-300);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  h1 {
+    color: var(--black);
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: normal;
+    margin: 2.75rem 0 0;
+  }
+
+  p {
+    color: var(--gray-400);
+    font-size: 0.75rem;
+    font-weight: 600;
+    line-height: normal;
+
+    margin: 0.5rem 0 1.6875rem;
+  }
+
+  nav {
+    display: flex;
+    gap: 4px;
+
+    margin: 2rem 0 1.375rem;
+
+    span {
+      color: var(--gray-200);
+    }
+  }
+
+  ul {
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+}
+
+.Logo {
+  width: 6.875rem;
+  height: 3.625rem;
+}
+
+.Dark {
+  background-color: var(--black);
+
+  h1 {
+    color: var(--white);
+  }
+}
