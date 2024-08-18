@@ -1,0 +1,40 @@
+.Primary {
+  display: flex;
+  gap: 0.5rem;
+  font-weight: 700;
+  color: var(--lightblue);
+  background-color: var(--blue);
+  border: none;
+  padding: 1.125rem 1.25rem;
+  border-radius: 0.75rem;
+}
+
+.Secondary {
+  display: flex;
+  gap: 0.5rem;
+  font-weight: 700;
+  color: var(--blue);
+  background-color: var(lightblue);
+  border: none;
+  padding: 1.125rem 1.25rem;
+  border-radius: 0.75rem;
+}
+
+.Disabled {
+  display: flex;
+  gap: 0.5rem;
+  font-weight: 700;
+  color: var(--gray-300);
+  background-color: var(--gray-200);
+  border: none;
+  padding: 1.125rem 1.25rem;
+  border-radius: 0.75rem;
+}
+
+.Secondary.Dark {
+  color: var(--dodgerblue);
+}
+
+.Disabled.Dark {
+  background-color: var(--gray-500);
+}
