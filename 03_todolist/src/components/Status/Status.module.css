@@ -1,0 +1,26 @@
+.Status {
+  font-size: 0.875rem;
+  font-weight: 600;
+  background-color: transparent;
+  border: none;
+  color: var(--gray-300);
+  span {
+    background-color: var(--gray-300);
+    border-radius: var(--rounded-sm);
+    padding: 0.125rem 0.25rem;
+    color: var(--white);
+  }
+}
+
+.Status.Dark {
+  span {
+    color: var(--black);
+  }
+}
+
+.Status.Active {
+  color: var(--blue);
+  span {
+    background-color: var(--blue);
+  }
+}
